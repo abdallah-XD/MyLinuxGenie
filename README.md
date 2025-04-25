@@ -65,6 +65,12 @@ Every action is logged in `linux_bash.log`, and you can view it from the main me
 - Humor included (free of charge)
 
 ---
+### 🧪 How to Use
+Run the script in your terminal:
+
+```bash
+   ./mylinuxgenie.sh
+
 
 ### ⚠️ Notes:
 
