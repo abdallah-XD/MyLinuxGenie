@@ -72,7 +72,7 @@ Run the script in your terminal:
    ./mylinuxgenie.sh
  OR
 bash mylinuxgenie.sh
-خ
+
 ### ⚠️ Notes:
 
 - Don’t run as root. MyLinuxGenie will yell at you.
