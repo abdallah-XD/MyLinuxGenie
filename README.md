@@ -79,7 +79,7 @@ Run the script in your terminal:
 - Internet connection needed for some features (like `yt-dlp` installation).
 
 ---
-
+```
 ### 🤖 Why MyLinuxGenie?
 
 > “If your terminal was a movie, MyLinuxGenie would be the comic relief hero that still saves the day.” 🎮
